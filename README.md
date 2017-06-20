@@ -1,8 +1,6 @@
 ## 前端资源收集 ##
 
->主要用于收集平时见到的或者使用过还不错的工具以及一些前端资料
-
-### javaScript 
+### javaScript
 | 标题 | 链接 |
 | --------- | --------- |
 |JavaScript中的this陷阱的最全收集|https://segmentfault.com/a/1190000002640298|
@@ -135,3 +133,7 @@
 #### ['autocomplete="off"'在Chrome中不起作用解决方案](http://blog.csdn.net/xw505501936/article/details/52129579)
 
 #### [json在线解析](http://www.json.cn/)
+
+
+----
+如有问题，欢迎来[这里](https://github.com/qingtan99/Front_end_resources/issues)指出!
