@@ -74,6 +74,7 @@
 |WebStorm|http://www.jetbrains.com/webstorm/|
 |WebStorm 主题|http://www.phpstorm-themes.com/|
 |WebStorm快捷键|http://www.51xuediannao.com/qd63/index.php/page-2-109-1.html|
+|浏览器同步测试工具|http://www.browsersync.cn/|
 
 ### 前端博客以及某些前端网
 | 标题 | 链接 |
