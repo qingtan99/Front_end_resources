@@ -27,6 +27,7 @@
 |解决position:fixed自适应BUG|https://github.com/maxzhang/maxzhang.github.com/issues/11|
 |Flexbox playground|https://codepen.io/enxaneta/pen/adLPwv|
 |移动端下拉刷新，上拉加载|https://github.com/ximan/dropload|
+|长按删除、全选|http://blog.csdn.net/u012767607/article/details/52622087|
 
 ### 分享插件
 | 标题 | 链接 |
