@@ -17,6 +17,18 @@
 |CSS3动画手册|https://isux.tencent.com/css3/index.html|
 |CSS3动画工具|https://isux.tencent.com/css3/tools.html|
 
+### CSS3代码生成器
+| 标题 | 介绍 | 链接 |
+| --------- | --------- | --------- |
+|CSS3 Generator|对于不同类别的代码生成器，包括 RGBa，transform，flexbox 等等，它有不同的页面。|http://css3generator.com/|
+|Enjoy CSS|它可提供定制的代码，用于转换和过渡，并预建项，如 CSS3 按钮这样常见的页面元素。|http://enjoycss.com/|
+|ColorZilla Gradients|一个免费的用于 CSS3 背景渐变的生成器。|http://www.colorzilla.com/gradient-editor/|
+|CSSmatic|它可以生成 4 个不同的 CSS 属性：渐变、圆角边框、圆角和框投影以及 BG 噪音，整个网站完全免费。|http://www.cssmatic.com/|
+|Prefixr|Prefixr 是一个免费更新 CSS 代码以包括所有必需前缀属性的工具。|http://prefixr.com/|
+|CSS3 Button Generator|用于自定义按钮样式和标签文本的免费工具。只要修改设置，就能自动生成和更新代码。|http://css3buttongenerator.com/|
+|Best CSS Button Generator|和上面一样，这也是完全免费的，可以从预设的按钮中选择并使用模板用于自己的设计|http://www.bestcssbuttongenerator.com/|
+
+
 ### 移动端
 | 标题 | 链接 |
 | --------- | --------- |
