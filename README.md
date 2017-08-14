@@ -9,6 +9,7 @@
 |Javascript模块化编程（一）：模块的写法|http://www.ruanyifeng.com/blog/2012/10/javascript_module.html|
 |Javascript模块化编程（二）：AMD规范|http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html|
 |Javascript模块化编程（三）：require.js的用法|http://www.ruanyifeng.com/blog/2012/11/require_js.html|
+|ECMAScript 6 入门|http://es6.ruanyifeng.com/|
 
 ### CSS 
 | 标题 | 链接 |
@@ -88,6 +89,7 @@
 |WebStorm 主题|http://www.phpstorm-themes.com/|
 |WebStorm快捷键|http://www.51xuediannao.com/qd63/index.php/page-2-109-1.html|
 |浏览器同步测试工具|http://www.browsersync.cn/|
+|json在线解析|http://www.json.cn/|
 
 ### 前端博客以及某些前端网
 | 标题 | 链接 |
@@ -137,17 +139,14 @@
 |zoom.js 点击放大图片，增强用户体验|https://github.com/nishanths/zoom.js|
 |APlayer 精美的HTML5 音乐播放器|https://github.com/DIYgod/APlayer|
 |niceValidator 表单校验|https://validator.niceue.com/|
+|全屏视频背景插件|http://www.5iweb.com.cn/resource/5iweb2016100801/index.html|
 
-#### [全屏视频背景插件](http://www.5iweb.com.cn/resource/5iweb2016100801/index.html)
-
-#### [jquery源码浅析--整体架构](http://www.cnblogs.com/coco1s/p/5261646.html)
-
-#### [three.js中文文档](http://techbrood.com/threejs/docs/)
-
-#### ['autocomplete="off"'在Chrome中不起作用解决方案](http://blog.csdn.net/xw505501936/article/details/52129579)
-
-#### [json在线解析](http://www.json.cn/)
-
+### 前端资源文档及研究
+| 标题 | 链接 |
+| --------- | --------- |
+|jquery源码浅析--整体架构|http://www.cnblogs.com/coco1s/p/5261646.html|
+|three.js中文文档|http://techbrood.com/threejs/docs/|
+|'autocomplete="off"'在Chrome中不起作用解决方案|http://blog.csdn.net/xw505501936/article/details/52129579|
 
 ----
 如有问题，欢迎来[这里](https://github.com/qingtan99/Front_end_resources/issues)指出!
