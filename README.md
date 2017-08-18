@@ -141,12 +141,20 @@
 |niceValidator 表单校验|https://validator.niceue.com/|
 |全屏视频背景插件|http://www.5iweb.com.cn/resource/5iweb2016100801/index.html|
 
-### 前端资源文档及研究
+### 前端资源文档及问题研究
 | 标题 | 链接 |
 | --------- | --------- |
+|JavaScript跨域总结与解决办法|http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html|
+|JavaScript 数组常用方法介绍|http://mp.weixin.qq.com/s/NqyQMoDWW5YY6Cn51wNR3g|
+|详细图解作用域链与闭包|www.jianshu.com/p/21a16d44f150|
+|详解面向对象、构造函数、原型与原型链|www.jianshu.com/p/15ac7393bc1f|
+|35个Jquery小技巧|https://segmentfault.com/a/1190000003902322|
 |jquery源码浅析--整体架构|http://www.cnblogs.com/coco1s/p/5261646.html|
+|浅谈web自适应|http://www.cnblogs.com/constantince/p/5708930.html|
+|高性能视差滚动|https://dumengjie.github.io/2017/07/24/%E8%AF%91-%E9%AB%98%E6%80%A7%E8%83%BD%E8%A7%86%E5%B7%AE%E6%BB%9A%E5%8A%A8/|
 |three.js中文文档|http://techbrood.com/threejs/docs/|
 |'autocomplete="off"'在Chrome中不起作用解决方案|http://blog.csdn.net/xw505501936/article/details/52129579|
+
 
 ----
 如有问题，欢迎来[这里](https://github.com/qingtan99/Front_end_resources/issues)指出!
