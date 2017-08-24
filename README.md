@@ -39,7 +39,10 @@
 |移动端基于vw和rem的根字号大小设置CSS代码|http://www.zhangxinxu.com/php/microCodeDetail.php?id=6|
 |解决position:fixed自适应BUG|https://github.com/maxzhang/maxzhang.github.com/issues/11|
 |Flexbox playground|https://codepen.io/enxaneta/pen/adLPwv|
-|移动端下拉刷新，上拉加载|https://github.com/ximan/dropload|
+|vue-list 列表滚动|https://github.com/hejianxian/vue-list|
+|向下滚动加载数据|https://github.com/zhangchen2397/infiniteScrollPage|
+|H5下拉刷新上拉加载|http://www.jq22.com/demo/pullrefresh-master201706221357/|
+|手势控制下拉刷新|http://www.jq22.com/yanshi5444|
 |长按删除、全选|http://blog.csdn.net/u012767607/article/details/52622087|
 
 ### 分享插件
