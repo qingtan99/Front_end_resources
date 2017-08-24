@@ -10,6 +10,7 @@
 |Javascript模块化编程（二）：AMD规范|http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html|
 |Javascript模块化编程（三）：require.js的用法|http://www.ruanyifeng.com/blog/2012/11/require_js.html|
 |ECMAScript 6 入门|http://es6.ruanyifeng.com/|
+|《深入理解ES6》教程学习笔记|https://github.com/hyy1115/ES6-learning|
 
 ### CSS 
 | 标题 | 链接 |
