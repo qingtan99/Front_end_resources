@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>弹幕demo</title>
+	<style>
+		* {
+			padding: 0;
+			margin: 0;
+		}
+
+		.main {
+			position: relative;
+			margin: 20px auto;
+			width: 90%;
+			height: 500px;
+			background: #000;
+			color: #fff;
+			overflow: hidden;
+		}
+
+		/*弹幕*/
+		.flying {
+		    position: absolute;
+		    z-index: 5;
+		    border-radius: 2px;
+		    color: #fff;
+		    white-space: nowrap;
+		    overflow: hidden;
+		    text-align: center;
+		    line-height: 1.2em;
+		    height: 1.3em;
+		    cursor: default;
+		    -moz-text-shadow: #333 1px 1px 0, #333 -1px 1px 0, #333 1px -1px 0, #333 -1px -1px 0, #333 1px 0 0, #333 0 1px 0, #333 -1px 0 0, #333 0 -1px 0;
+		    -webkit-text-shadow: #333 1px 1px 0, #333 -1px 1px 0, #333 1px -1px 0, #333 -1px -1px 0, #333 1px 0 0, #333 0 1px 0, #333 -1px 0 0, #333 0 -1px 0;
+		    text-shadow: #333 1px 1px 0, #333 -1px 1px 0, #333 1px -1px 0, #333 -1px -1px 0, #333 1px 0 0, #333 0 1px 0, #333 -1px 0 0, #333 0 -1px 0;
+		    filter: progid:DXImageTransform.Microsoft.Shadow(10px); /* IE6~IE9 */
+		}
+
+		.flying.member {
+		    color: #c92933;
+		    -moz-text-shadow: #fff 1px 1px 0, #fff -1px 1px 0, #fff 1px -1px 0, #fff -1px -1px 0, #fff 1px 0 0, #fff 0 1px 0, #fff -1px 0 0, #fff 0 -1px 0;
+		    -webkit-text-shadow: #fff 1px 1px 0, #fff -1px 1px 0, #fff 1px -1px 0, #fff -1px -1px 0, #fff 1px 0 0, #fff 0 1px 0, #fff -1px 0 0, #fff 0 -1px 0;
+		    text-shadow: #fff 1px 1px 0, #fff -1px 1px 0, #fff 1px -1px 0, #fff -1px -1px 0, #fff 1px 0 0, #fff 0 1px 0, #fff -1px 0 0, #fff 0 -1px 0;
+		    filter: progid:DXImageTransform.Microsoft.Shadow(10px); /* IE6~IE9 */
+
+		}
+
+		.flying:hover {
+		    opacity: 0.5;
+		    filter: alpha(opacity=50);
+		}
+
+		.flying img {
+		    height: 85%;
+		    width: auto;
+		    vertical-align: -4px;
+		}
+
+	</style>
+</head>
+<body>
+	<div id="id_video_container" class="main"></div>
+	<script src="js/jquerymin.js"></script>
+	<script src="js/barrage.js"></script>
+	<script src="js/index.js"></script>
+</body>
+</html>
