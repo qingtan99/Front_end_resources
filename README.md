@@ -154,10 +154,12 @@
 |详解面向对象、构造函数、原型与原型链|www.jianshu.com/p/15ac7393bc1f|
 |35个Jquery小技巧|https://segmentfault.com/a/1190000003902322|
 |jquery源码浅析--整体架构|http://www.cnblogs.com/coco1s/p/5261646.html|
+|js/jquery各种宽高的理解和应用|http://www.haorooms.com/post/js_jquery_whljyy|
 |浅谈web自适应|http://www.cnblogs.com/constantince/p/5708930.html|
 |高性能视差滚动|https://dumengjie.github.io/2017/07/24/%E8%AF%91-%E9%AB%98%E6%80%A7%E8%83%BD%E8%A7%86%E5%B7%AE%E6%BB%9A%E5%8A%A8/|
 |three.js中文文档|http://techbrood.com/threejs/docs/|
 |'autocomplete="off"'在Chrome中不起作用解决方案|http://blog.csdn.net/xw505501936/article/details/52129579|
+|点击浏览器或者手机返回按钮，刷新历史页面解决方案|http://www.haorooms.com/post/refrash_historypage|
 
 
 ----
