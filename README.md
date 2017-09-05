@@ -81,6 +81,7 @@
 |Slider JS|http://wowslider.com/slider-js-utter-blinds-demo.html|
 |纯css滑块|http://cssslider.com/|
 |dowebok|http://www.dowebok.com/demo/2014/93/|
+|react-slick（轻量级轮播插件）|https://github.com/akiran/react-slick|
 
 ### 前端开发工具
 | 标题 | 链接 |
