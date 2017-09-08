@@ -161,6 +161,7 @@
 |three.js中文文档|http://techbrood.com/threejs/docs/|
 |'autocomplete="off"'在Chrome中不起作用解决方案|http://blog.csdn.net/xw505501936/article/details/52129579|
 |点击浏览器或者手机返回按钮，刷新历史页面解决方案|http://www.haorooms.com/post/refrash_historypage|
+|代码高亮（代码量少，无依赖，对标签的 class 起名起的好，允许你 copy 它的代码自己修改和定制）|http://prismjs.com/|
 
 
 ----
