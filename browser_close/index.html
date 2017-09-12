@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>监控浏览器关闭事件</title>
+    </head>
+    <style type="text/css">
+    </style>
+    <body>
+        <div id="create_order">
+        </div>
+    </body>
+</html>
+<script type="text/javascript">
+    var widowClose = {};
+    widowClose.tip = "浏览器即将关闭，是否确定？？";
+    widowClose.set = function(a) {
+        window.onbeforeunload = function(b) {
+            b = b || window.event;
+            b.returnValue = a;
+            return a
+        }
+    };
+    widowClose.clear = function() {
+        fckDraft.delDraftById();
+        window.onbeforeunload = function() {
+        }
+    };
+    widowClose.set(widowClose.tip);
+</script>
