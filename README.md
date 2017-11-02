@@ -162,7 +162,13 @@
 |'autocomplete="off"'在Chrome中不起作用解决方案|http://blog.csdn.net/xw505501936/article/details/52129579|
 |点击浏览器或者手机返回按钮，刷新历史页面解决方案|http://www.haorooms.com/post/refrash_historypage|
 |代码高亮（代码量少，无依赖，对标签的 class 起名起的好，允许你 copy 它的代码自己修改和定制）|http://prismjs.com/|
+|一份关于任何可以写入到你的文档中 <head> 部分的清单。|https://www.awesomes.cn/repo/joshbuchea/head|
+|Vue-element（基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用）|https://www.awesomes.cn/repo/bailicangdu/vue2-elm|
 
+### 前端框架收录
+| 标题 | 链接 |
+| --------- | --------- |
+|iView admin（基于Vue.js）|https://www.awesomes.cn/repo/iview/iview-admin|
 
 ----
 如有问题，欢迎来[这里](https://github.com/qingtan99/Front_end_resources/issues)指出!
