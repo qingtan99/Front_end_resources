@@ -150,30 +150,6 @@
     }
   ```
   
-  -  设置cookie值
-  
-  ```
-    function setCookie(name, value, Hours) {
-        var d = new Date();
-        var offset = 8;
-        var utc = d.getTime() + (d.getTimezoneOffset() * 60000);
-        var nd = utc + (3600000 * offset);
-        var exp = new Date(nd);
-        exp.setTime(exp.getTime() + Hours * 60 * 60 * 1000);
-        document.cookie = name + "=" + escape(value) + ";path=/;expires=" + exp.toGMTString() + ";domain=360doc.com;"
-    }
-  ```
-  
-  -  获取cookie值
-  
-  ```
-    function getCookie(name) {
-        var arr = document.cookie.match(new RegExp("(^| )" + name + "=([^;]*)(;|$)"));
-        if (arr != null) return unescape(arr[2]);
-        return null
-    }
-  ```
-  
   -   检验URL链接是否有效
   
   ```
@@ -317,8 +293,9 @@
     }
   ```
   
-  - 设置cookie
-  ```
+  -  设置cookie
+  
+  ```
   function setCookie(cname,cvalue,exdays){
        var d = new Date();
        d.setTime(d.getTime()+(exdays*24*60*60*1000));
@@ -327,8 +304,9 @@
   }
   ```
   
- - 获取cookie
-  ```
+  -  获取cookie
+ 
+  ```
   function getCookie(cname){
   var name = cname + "=";
   var ca = document.cookie.split(';');
@@ -339,13 +317,14 @@
   }
   return "";
 }
-```
+  ```
 
-- 检测cookie函数
-<p>
-如果设置了 cookie，将显示一个问候信息。
+  -  检测cookie函数
+
+<p>如果设置了 cookie，将显示一个问候信息。
 如果没有设置 cookie，将会显示一个弹窗用于询问访问者的名字，并调用 setCookie 函数将访问者的名字存储 365 天：</p>
-```
+
+  ```
 function checkCookie(){
   var user=getCookie("username");
   if (user!="")
@@ -361,5 +340,5 @@ function checkCookie(){
     }
   }
 }
-```
+  ```
   
