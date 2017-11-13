@@ -317,13 +317,50 @@
         return text.split('').reverse().join('');
     }
   ```
+  
+  - 设置cookie
+  ```
+  function setCookie(cname,cvalue,exdays){
+       var d = new Date();
+       d.setTime(d.getTime()+(exdays*24*60*60*1000));
+       var expires = "expires="+d.toGMTString();
+       document.cookie = cname + "=" + cvalue + "; " + expires;
+  }
+  ```
+  
+ - 获取cookie
+  ```
+  function getCookie(cname){
+  var name = cname + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0; i<ca.length; i++) 
+  {
+    var c = ca[i].trim();
+    if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+  }
+  return "";
+}
+```
 
-  
-  
-  
-  
-  
-  
-  
-  
+- 检测cookie函数
+<p>
+如果设置了 cookie，将显示一个问候信息。
+如果没有设置 cookie，将会显示一个弹窗用于询问访问者的名字，并调用 setCookie 函数将访问者的名字存储 365 天：</p>
+```
+function checkCookie(){
+  var user=getCookie("username");
+  if (user!="")
+  {
+    alert("Welcome again " + user);
+  }
+  else 
+  {
+    user = prompt("Please enter your name:","");
+    if (user!="" && user!=null)
+    {
+      setCookie("username",user,365);
+    }
+  }
+}
+```
   
