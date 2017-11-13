@@ -217,15 +217,14 @@
     }
   ```
   
-  -  禁用浏览器前进后退按钮
+  -  禁用浏览器前进后退按钮
   
-  ```
+  ```
     window.history.forward(1);
-		window.history.forward(-1);
+    window.history.forward(-1);
   ```
   
   -  数组去重
-  
   ```
     String.prototype.unique=function(){
         var x=this.split(/[\r\n]+/);
