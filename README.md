@@ -145,6 +145,7 @@
 |APlayer 精美的HTML5 音乐播放器|https://github.com/DIYgod/APlayer|
 |niceValidator 表单校验|https://validator.niceue.com/|
 |全屏视频背景插件|http://www.5iweb.com.cn/resource/5iweb2016100801/index.html|
+|滚动条模拟|http://jquery-plugins.net/tag/scrollbar|
 
 ### 前端资源文档及问题研究
 | 标题 | 链接 |
